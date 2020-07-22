@@ -11,7 +11,7 @@ JICAプロジェクトマッピング
 ## 詳細仕様（適宜検討の上、修正する可能性あり）
 * パイロットエリアはブラジルとする。
 * GeoJSONデータファイルの保存先はこの[geo4jicaリポジトリのdataフォルダ](https://github.com/furuhashilab/geo4jica/tree/master/data)内とする。
-
+* 古橋研究室版改良マニュアル原本は[ここ](https://docs.google.com/document/d/1KRPwsbjDodYyP7A0lG6AVwZQhl2AHdj9pItM_tduHRY/edit?usp=sharing)。 
 
 
 ## メンバーリスト
