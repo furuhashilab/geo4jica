@@ -13,6 +13,11 @@ JICAプロジェクトマッピング
 * GeoJSONデータファイルの保存先はこの[geo4jicaリポジトリのdataフォルダ](https://github.com/furuhashilab/geo4jica/tree/master/data)内とする。
 
 
+
+## メンバーリスト
+@f1kuni , @YoshidaSuzuka , @Ayako-T , @Maxputa , @mamiy1002 , @kahorusato and @mapconcierge
+
+
 ---
 
 
